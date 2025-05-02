@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pantrade-logo.png" alt="PanTrade Logo" width="150"/>
+  <img src="logo.png" alt="PanTrade Logo" width="150"/>
 </p>
 # PanTrade Support
 
