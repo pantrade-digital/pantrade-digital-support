@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/pantrade-logo.png" alt="PanTrade Logo" width="150"/>
+</p>
 # PanTrade Support
 
 Welcome to the official support page for **PanTrade**.
